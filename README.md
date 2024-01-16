@@ -1,3 +1,18 @@
+This project was developed with React. Link structures are organized with React router dom. Metarial UI was used for the icons.
+
+Home page;
+![Home](https://github.com/sercanisli/burger-app/assets/128610192/4ffea345-d34f-44af-bbc9-f7627f3668a3)
+
+Menu page;
+![Menu](https://github.com/sercanisli/burger-app/assets/128610192/75337ea8-d28b-4289-9349-90ddc1959f61)
+
+About us page;
+![About](https://github.com/sercanisli/burger-app/assets/128610192/ecf996e2-c8e9-4aaf-bbb1-90d5ec2a16e9)
+
+Contact page;
+![Contact](https://github.com/sercanisli/burger-app/assets/128610192/ddfba613-7ca0-4089-af61-9f3ff747ea4d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
